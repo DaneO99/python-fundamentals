@@ -62,21 +62,34 @@ Welcome to the Python Fundamentals repository! This collection contains various 
 
 Click on any exercise below to jump to its folder and learn more:
 
-### Basic Concepts
-- [Variables](./variables/) - Learn about variable declaration and usage
-- [Typecasting](./typecasting/) - Understanding data type conversion
-- [User Input](./user-input/) - Getting input from users
-- [Arithmetic](./arithmetic/) - Basic mathematical operations
+### 📚 Basic Concepts
+- [Variables](./basics/variables/) - Learn about variable declaration and usage
+- [Typecasting](./basics/typecasting/) - Understanding data type conversion
+- [User Input](./basics/user-input/) - Getting input from users
+- [Mad Libs](./basics/madlibs/) - Interactive story generator
 
-### Control Flow
-- [If Statements](./ifstatements/) - Conditional logic and decision making
-- [Logic Operators](./logicoperators/) - Boolean operations and comparisons
+### 🔤 String Operations
+- [String Indexing](./strings/string%20indexing/) - Access and slice string characters
+- [String Methods](./strings/string-methods/) - Built-in string functions and validation
 
-### Practical Applications
-- [Calculator](./calculator/) - Build a simple calculator
-- [Temperature Conversion](./temperature-conversion/) - Convert between temperature scales
-- [Weight Conversion](./weight%20conversion/) - Convert between weight units
-- [Mad Libs](./madlibs/) - Interactive story generator
+### 🧮 Mathematical Operations
+- [Arithmetic](./math%20/arithmetic/) - Basic mathematical operations
+- [Calculator](./math%20/calculator/) - Build a simple calculator
+- [Temperature Conversion](./math%20/temperature-conversion/) - Convert between temperature scales
+- [Weight Conversion](./math%20/weight%20conversion/) - Convert between weight units
+
+### 🔍 Logic and Decision Making
+- [If Statements](./logic%20/ifstatements/) - Conditional logic and decision making
+- [Logic Operators](./logic%20/logicoperators/) - Boolean operations (AND, OR)
+- [Conditionals](./logic%20/conditionals/) - Ternary operators and conditional expressions
+
+### 🔄 Control Flow
+- [While Loops](./loops/) - Repetitive execution with while loops
+- [For Loops](./loops/) - Iteration with for loops
+- [Compound Interest](./loops/) - Practical loop applications
+
+### 📝 Formatting and Display
+- [Format Specifiers](./format-specifiers/) - Advanced string formatting techniques
 
 ## 🚀 Getting Started
 
@@ -100,10 +113,13 @@ Click on any exercise below to jump to its folder and learn more:
 
 We recommend following this order for beginners:
 
-1. **Variables** → **Typecasting** → **User Input**
-2. **Arithmetic** → **If Statements** → **Logic Operators**
-3. **Calculator** → **Temperature Conversion** → **Weight Conversion**
-4. **Mad Libs** (Fun project to practice everything!)
+1. **Basic Concepts**: Variables → Typecasting → User Input
+2. **String Operations**: String Indexing → String Methods
+3. **Math Operations**: Arithmetic → Calculator → Conversions
+4. **Logic**: If Statements → Logic Operators → Conditionals
+5. **Control Flow**: While Loops → For Loops
+6. **Formatting**: Format Specifiers
+7. **Final Project**: Mad Libs (Practice everything!)
 
 ## 🤝 Contributing
 
