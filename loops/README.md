@@ -46,10 +46,53 @@ while food.lower() != 'q':
 - Collecting user input until a sentinel value
 
 ### 2. For Loops (`forloops.py`)
-*File currently empty - ready for for loop examples*
+**Purpose:** Basic for loop demonstrations
+
+**What it covers:**
+- Simple for loop iteration
+- Range function usage
+- Basic loop structure
 
 ### 3. Compound Interest (`compoundinterest.py`)
-*File currently empty - ready for compound interest calculations*
+**Purpose:** Financial calculations using loops
+
+**What it covers:**
+- Compound interest formula implementation
+- Mathematical calculations in loops
+- Real-world application of iteration
+- Financial modeling concepts
+
+### 4. Countdown Timer (`countdown.py`) ⭐ NEW
+**Purpose:** Interactive countdown timer with time formatting
+
+**What it covers:**
+- Time manipulation and formatting (HH:MM:SS)
+- Real-time countdown using `time.sleep()`
+- Mathematical time calculations (hours, minutes, seconds)
+- User input for countdown duration
+- Practical loop applications
+
+**Key Features:**
+- Professional time display format
+- Real-time updates
+- User-defined countdown duration
+- Mathematical time conversion
+
+### 5. Nested Loops (`nestedforloop.py`) ⭐ NEW
+**Purpose:** Pattern generation using nested loop structures
+
+**What it covers:**
+- Nested loop concepts
+- User input for dimensions and symbols
+- Pattern creation and visual output
+- Dynamic formatting
+- Two-dimensional iteration
+
+**Key Features:**
+- Custom pattern dimensions
+- User-defined symbols
+- Visual programming concepts
+- Grid-based output
 
 ## 🎯 While Loop Examples
 

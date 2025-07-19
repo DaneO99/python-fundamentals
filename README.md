@@ -84,9 +84,10 @@ Click on any exercise below to jump to its folder and learn more:
 - [Conditionals](./logic%20/conditionals/) - Ternary operators and conditional expressions
 
 ### 🔄 Control Flow
-- [While Loops](./loops/) - Repetitive execution with while loops
-- [For Loops](./loops/) - Iteration with for loops
-- [Compound Interest](./loops/) - Practical loop applications
+- [Loops](./loops/) - While loops, for loops, and advanced loop concepts
+
+### 📊 Collections
+- [Collections](./collections/) - Lists, data structures, and real-world applications
 
 ### 📝 Formatting and Display
 - [Format Specifiers](./format-specifiers/) - Advanced string formatting techniques
