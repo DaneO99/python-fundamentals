@@ -86,8 +86,14 @@ Click on any exercise below to jump to its folder and learn more:
 ### 🔄 Control Flow
 - [Loops](./loops/) - While loops, for loops, and advanced loop concepts
 
+### 🏗️ Functions
+- [Basic Functions](./basic-functions/) - Function creation, return values, and basic concepts
+- [Function Arguments](./arguments/) - Default args, keyword args, *args, and **kwargs
+
 ### 📊 Collections
 - [Collections](./collections/) - Lists, data structures, and real-world applications
+- [2D Collections](./2d-collections/) - Two-dimensional data structures and matrices
+- [Dictionaries](./dictionaries/) - Key-value pairs and dictionary operations
 
 ### 📝 Formatting and Display
 - [Format Specifiers](./format-specifiers/) - Advanced string formatting techniques
@@ -119,8 +125,10 @@ We recommend following this order for beginners:
 3. **Math Operations**: Arithmetic → Calculator → Conversions
 4. **Logic**: If Statements → Logic Operators → Conditionals
 5. **Control Flow**: While Loops → For Loops
-6. **Formatting**: Format Specifiers
-7. **Final Project**: Mad Libs (Practice everything!)
+6. **Functions**: Basic Functions → Function Arguments
+7. **Data Structures**: Collections → 2D Collections → Dictionaries
+8. **Formatting**: Format Specifiers
+9. **Final Project**: Mad Libs (Practice everything!)
 
 ## 🤝 Contributing
 
