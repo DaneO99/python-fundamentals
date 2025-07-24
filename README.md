@@ -98,6 +98,40 @@ Click on any exercise below to jump to its folder and learn more:
 ### 📝 Formatting and Display
 - [Format Specifiers](./format-specifiers/) - Advanced string formatting techniques
 
+---
+
+## 📁 All Folders Quick Access
+
+### Main Categories:
+- [Arguments](./arguments/) - Function parameters and argument types
+- [Basic Functions](./basic-functions/) - Function fundamentals
+- [Collections](./collections/) - Lists and data structures
+- [Dictionaries](./dictionaries/) - Key-value data structures
+- [Format Specifiers](./format-specifiers/) - String formatting
+- [Loops](./loops/) - Iteration and repetition
+- [2D Collections](./2d-collections/) - Multi-dimensional arrays
+
+### Basics Subfolder:
+- [Basics - Mad Libs](./basics/madlibs/) - Interactive story creation
+- [Basics - Typecasting](./basics/typecasting/) - Data type conversion
+- [Basics - User Input](./basics/user-input/) - Getting user data
+- [Basics - Variables](./basics/variables/) - Variable fundamentals
+
+### Logic Subfolder:
+- [Logic - Conditionals](./logic%20/conditionals/) - Ternary operators
+- [Logic - If Statements](./logic%20/ifstatements/) - Basic conditionals
+- [Logic - Logic Operators](./logic%20/logicoperators/) - AND/OR operations
+
+### Math Subfolder:
+- [Math - Arithmetic](./math%20/arithmetic/) - Basic math operations
+- [Math - Calculator](./math%20/calculator/) - Calculator program
+- [Math - Temperature Conversion](./math%20/temperature-conversion/) - Temperature converter
+- [Math - Weight Conversion](./math%20/weight%20conversion/) - Weight converter
+
+### Strings Subfolder:
+- [Strings - String Indexing](./strings/string%20indexing/) - Character access
+- [Strings - String Methods](./strings/string-methods/) - String functions
+
 ## 🚀 Getting Started
 
 1. **Clone this repository**:
